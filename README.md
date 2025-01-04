@@ -8,7 +8,7 @@ Je suis actuellement à la recherche de mon premier stage pour consolider et él
 
 ---
 
-## 📂 O que você encontrará aqui
+## 📂 Ce que vous trouverez ici
 - 🌟 **Projets personnels**
 - 📚 **Exercices ** réalisés pendant ma formation à **ADRAR Digital Academy**
 - 🔧 **Exercices autodidactes** développés indépendamment
@@ -23,10 +23,10 @@ Je suis actuellement à la recherche de mon premier stage pour consolider et él
 ### 🖥 **Back-end**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 
-### 🔧 **Gestão colaborativa**
+### 🔧 **Collaboration**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
-### 🎨 **Criação gráfica**
+### 🎨 **Graphisme**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) 
 
