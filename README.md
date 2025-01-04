@@ -4,7 +4,7 @@
 
 Je suis **franco-brésilien**, diplômé en **Publicité et Marketing**, avec 10 ans d'expérience au Brésil. Après avoir déménagé en France, j'ai commencé mes études pour devenir **Développeur Web et Web Mobile** 🚀.
 
-Je suis actuellement à la recherche de mon premier stage pour consolider et élargir mes connaissances dans le domaine ! 💼✨
+Je suis actuellement à la **recherche de stage** pour consolider et élargir mes connaissances dans le domaine ! 💼✨
 
 ---
 
@@ -65,7 +65,7 @@ Voici mes compétences actuelles... mais **chaque jour une nouvelle étape**! �
 
 I am a **Franco-Brazilian**, graduated in **Advertising and Marketing**, with **10 years of experience** in Brazil. After moving to France, I started my studies to become a **Web and Web Mobile Developer** 🚀.
 
-Currently, I am looking for my **first internship** to consolidate and expand my knowledge in the field! 💼✨
+Currently, I am **looking for an internship** to consolidate and expand my knowledge in the field! 💼✨
 
 ---
 
