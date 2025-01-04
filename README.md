@@ -35,7 +35,7 @@ Je suis actuellement à la **recherche de stage** pour consolider et élargir me
 
 ---
 
-## 🌱 Compétences Comportementales
+## 🌱 Savoir-Être
 - 💬 **Communication efficace**
 - 🔍 **Attention aux détails**
 - 🤝 **Travail en équipe**
