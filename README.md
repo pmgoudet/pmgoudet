@@ -10,7 +10,7 @@ Je suis actuellement à la recherche de mon premier stage pour consolider et él
 
 ## 📂 Ce que vous trouverez ici
 - 🌟 **Projets personnels**
-- 📚 **Exercices ** réalisés pendant ma formation à **ADRAR Digital Academy**
+- 📚 **Exercices** réalisés pendant ma formation à **ADRAR Digital Academy**
 - 🔧 **Exercices autodidactes** développés indépendamment
 
 ---
