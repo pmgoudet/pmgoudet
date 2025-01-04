@@ -96,7 +96,7 @@ Currently, I am **looking for an internship** to consolidate and expand my knowl
 ### 🌎 **Languages**
 - **Portuguese** *(native)*
 - **French** *(bilingual)*
-- **Inglês** *(fluent)*
+- **English** *(fluent)*
 
 ---
 
