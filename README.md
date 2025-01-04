@@ -13,8 +13,6 @@ Je suis actuellement à la recherche de mon premier stage pour consolider et él
 - 📚 **Exercices** réalisés pendant ma formation à **ADRAR Digital Academy**
 - 🔧 **Exercices autodidactes** développés indépendamment
 
----
-
 ## 🚀 Compétences
 
 ### 🖥️ **Front-end**
@@ -29,7 +27,6 @@ Je suis actuellement à la recherche de mon premier stage pour consolider et él
 ### 🎨 **Graphisme**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) 
-
 
 ### 🌎 **Langues**
 - **Portugais** *(natif)*
@@ -57,6 +54,8 @@ Voici mes compétences actuelles... mais **chaque jour une nouvelle étape**! �
 - 💼 [Portfólio](https://pmgoudet.vercel.app)
 
 
+---
+##
 ---
 
 
@@ -86,10 +85,10 @@ Currently, I am looking for my **first internship** to consolidate and expand my
 ### 🖥 **Back-end**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 
-### 🔧 **Gestão colaborativa**
+### 🔧 **Collaboration**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
-### 🎨 **Criação gráfica**
+### 🎨 **Design Tools**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) 
 
@@ -118,66 +117,3 @@ These are my current skills... but **one step at a time, every day**! 🚶‍♂
 - ✉️ **E-mail**: pmgoudet@gmail.com 
 - 🌐 [LinkedIn](https://linkedin.com/in/pmgoudet)  
 - 💼 [Portfólio](https://pmgoudet.vercel.app)
-
-
------
-
-
-# Olá, eu sou o Pedro Goudet! 👋🌎
-
-## 👨‍💻 Sobre mim
-
-Sou **franco-brasileiro**, formado em **Publicidade e Marketing**, com **10 anos de experiência** na área no Brasil. Após me mudar para a França, iniciei meus estudos para me tornar **Desenvolvedor Web e Web Mobile** 🚀. 
-
-Atualmente, busco meu **primeiro estágio** para consolidar e ampliar meus conhecimentos na área! 💼✨
-
----
-
-## 📂 O que você encontrará aqui
-- 🌟 **Projetos Pessoais**
-- 📚 **Exercícios** realizados durante minha formação na **ADRAR Digital Academy**
-- 🔧 **Exercícios** desenvolvidos por conta própria durante meus estudos em **autoformação**
-
----
-
-## 🚀 Competências
-
-### 🖥️ **Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-
-### 🖥 **Back-end**
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-
-### 🔧 **Gestão colaborativa**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-
-### 🎨 **Criação gráfica**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) 
-
-
-### 🌎 **Idiomas**
-- **Português** *(nativo)*
-- **Francês** *(bilíngue)*
-- **Inglês** *(fluente)*
-
----
-
-## 🌱 Competências Transversais
-- 💬 **Comunicação eficaz**
-- 🔍 **Atenção aos detalhes**
-- 🤝 **Trabalho em equipe**
-- 📅 **Organização e gestão do tempo**
-
----
-
-## 📈 Em constante evolução
-Estes são meus conhecimentos até agora... mas **cada dia um passo a mais**! 🚶‍♂️📚✨
-
----
-
-## 📫 Entre em contato comigo
-- ✉️ **E-mail**: pmgoudet@gmail.com 
-- 🌐 [LinkedIn](https://linkedin.com/in/pmgoudet)  
-- 💼 [Portfólio](https://pmgoudet.vercel.app)
-
