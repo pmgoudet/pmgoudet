@@ -55,7 +55,10 @@ Voici mes compétences actuelles... mais **chaque jour une nouvelle étape**! �
 
 
 ---
-##
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pmgoudet&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmgoudet&layout=compact&theme=tokyonight)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=pmgoudet&theme=tokyonight)
+
 ---
 
 
@@ -117,3 +120,4 @@ These are my current skills... but **one step at a time, every day**! 🚶‍♂
 - ✉️ **E-mail**: pmgoudet@gmail.com 
 - 🌐 [LinkedIn](https://linkedin.com/in/pmgoudet)  
 - 💼 [Portfólio](https://pmgoudet.vercel.app)
+
