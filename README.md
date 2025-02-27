@@ -121,4 +121,4 @@ These are my current skills... but **one step at a time, every day**! 🚶‍♂
 - 🌐 [LinkedIn](https://linkedin.com/in/pmgoudet)  
 - 💼 [Portfólio](https://pmgoudet.vercel.app)
 
-![Snake animation](https://raw.githubusercontent.com/pmgoudet/pmgoudet/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/pmgoudet/pmgoudet/refs/heads/main/dist/github-contribution-grid-snake.svg)
