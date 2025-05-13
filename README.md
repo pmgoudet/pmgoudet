@@ -2,9 +2,9 @@
 
 ## 👨‍💻 À propos de moi
 
-Je suis **franco-brésilien**, diplômé en **Publicité et Marketing**, avec 10 ans d'expérience au Brésil. Après avoir déménagé en France, j'ai commencé mes études pour devenir **Développeur Web et Web Mobile** 🚀.
+Titulaire d’une **Licence en publicité et marketing** et actuellement en fin de formation en **Développement Web et Web mobile (Bac+2)**, je prépare une formation de **Concepteur Développeur d’Applications** (*Titre professionnel de niveau 6 – Bac+3/4*) en **alternance**, à partir d’**octobre 2025**.
 
-Je suis actuellement à la **recherche de stage** pour consolider et élargir mes connaissances dans le domaine ! 💼✨
+Je recherche une **entreprise** où je pourrai **renforcer mes compétences techniques** tout en mettant à profit ma **sensibilité à la communication** et à **l’expérience utilisateur**.
 
 ---
 
@@ -16,7 +16,7 @@ Je suis actuellement à la **recherche de stage** pour consolider et élargir me
 ## 🚀 Compétences
 
 ### 🖥️ **Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### 🖥 **Back-end**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
@@ -27,6 +27,10 @@ Je suis actuellement à la **recherche de stage** pour consolider et élargir me
 ### 🎨 **Graphisme**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) 
+
+### 🧩 **CMS**
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+
 
 ### 🌎 **Langues**
 - **Portugais** *(natif)*
@@ -66,9 +70,9 @@ Voici mes compétences actuelles... mais **chaque jour une nouvelle étape**! �
 
 ## 👨‍💻 About Me
 
-I am a **Franco-Brazilian**, graduated in **Advertising and Marketing**, with **10 years of experience** in Brazil. After moving to France, I started my studies to become a **Web and Web Mobile Developer** 🚀.
+Holder of a **Bachelor’s degree in Advertising and Marketing** and currently completing a **Web and Mobile Web Development diploma (2-year degree)**, I am preparing to start a **level 6 professional certification in Application Design and Development** (*equivalent to a Bachelor’s/Master’s level*) in **alternating work-study**, starting in **October 2025**.
 
-Currently, I am **looking for an internship** to consolidate and expand my knowledge in the field! 💼✨
+I am looking for a **company** where I can **strengthen my technical skills** while leveraging my **communication background** and focus on **user experience**.
 
 ---
 
@@ -83,7 +87,7 @@ Currently, I am **looking for an internship** to consolidate and expand my knowl
 ## 🚀 Skills
 
 ### 🖥️ **Front-end**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 ### 🖥 **Back-end**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
@@ -94,6 +98,9 @@ Currently, I am **looking for an internship** to consolidate and expand my knowl
 ### 🎨 **Design Tools**
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) 
+
+### 🧩 **CMS**
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
 
 
 ### 🌎 **Languages**
