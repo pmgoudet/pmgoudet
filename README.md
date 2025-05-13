@@ -55,7 +55,7 @@ Voici mes compétences actuelles... mais **chaque jour une nouvelle étape**! �
 ## 📫 Contactez-moi
 - ✉️ **E-mail**: pmgoudet@gmail.com 
 - 🌐 [LinkedIn](https://linkedin.com/in/pmgoudet)  
-- 💼 [Portfólio](https://pmgoudet.vercel.app)
+- 💼 [Portfólio](https://pedrogoudet.vercel.app/)
 
 
 ---
@@ -126,6 +126,6 @@ These are my current skills... but **one step at a time, every day**! 🚶‍♂
 ## 📫 Contact Me
 - ✉️ **E-mail**: pmgoudet@gmail.com 
 - 🌐 [LinkedIn](https://linkedin.com/in/pmgoudet)  
-- 💼 [Portfólio](https://pmgoudet.vercel.app)
+- 💼 [Portfólio](https://pedrogoudet.vercel.app/)
 
 ![Snake animation](https://raw.githubusercontent.com/pmgoudet/pmgoudet/refs/heads/main/dist/github-contribution-grid-snake.svg)
