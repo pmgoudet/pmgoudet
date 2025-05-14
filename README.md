@@ -2,7 +2,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Titulaire d’une **Licence en publicité et marketing** et actuellement en fin de formation en **Développement Web et Web mobile (Bac+2)**, je prépare une formation de **Concepteur Développeur d’Applications** (*Titre professionnel de niveau 6 – Bac+3/4*) en **alternance**, à partir d’**octobre 2025**.
+Titulaire d’une **Licence en publicité et marketing** et actuellement en fin de formation en **Développement Web et Web mobile (RNCP niv. 5)**, je prépare une formation de **Concepteur Développeur d’Applications** (*Titre professionnel de niveau 6 – Bac+3/4*) en **alternance**, à partir d’**octobre 2025**.
 
 Je recherche une **entreprise** où je pourrai **renforcer mes compétences techniques** tout en mettant à profit ma **sensibilité à la communication** et à **l’expérience utilisateur**.
 
