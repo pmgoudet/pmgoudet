@@ -2,9 +2,10 @@
 
 ## 👨‍💻 À propos de moi
 
-Titulaire d’une **Licence en publicité et marketing** et actuellement en fin de formation en **Développement Web et Web mobile (RNCP niv. 5)**, je prépare une formation de **Concepteur Développeur d’Applications** (*Titre professionnel de niveau 6 – Bac+3/4*) en **alternance**, à partir d’**octobre 2025**.
+Reconverti vers le développement après une Licence en publicité et marketing, je poursuis une Licence Informatique au CNAM de Toulouse, en alternance chez Xelians Digital à partir de septembre 2026.
 
-Je recherche une **entreprise** où je pourrai **renforcer mes compétences techniques** tout en mettant à profit ma **sensibilité à la communication** et à **l’expérience utilisateur**.
+Curieux et autonome, j'apprends en résolvant de vrais problèmes — sécuriser une authentification, structurer une API, automatiser un traitement de fichiers. Ma formation en communication m'aide à traduire un besoin flou en solution technique concrète.
+
 
 ---
 
